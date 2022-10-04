@@ -1,0 +1,93 @@
+a{
+	text-decoration: none;
+}
+
+header .menu{
+	position: fixed;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 40px;
+}
+
+header .menu li{
+	display: inline-block;
+}
+
+header .menu a{
+	color: #151515;
+	padding: 8px 12px;
+	border-radius: 3px ;
+	transition: 200mx;
+}
+
+.principal{
+	height: 35vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.principal h1{
+	color: white;
+	font-size: 45px;
+}
+
+p{
+	margin-top: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
+	color: white;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial; Helvetica; sans-serif;
+}
+
+header .menu a{
+	background: white;
+}
+
+.imagen {
+	margin-left: 450px;
+	margin-top: 20px;
+}
+
+h2{
+	margin-top: 30px;
+	margin-left: 100px;
+	color: yellow;
+}
+
+h3{
+	margin-top: 30px;
+	margin-left: 100px;
+	color: red;
+}
+
+.titulo {
+	margin-top: 10px;
+	margin-left: 85px;
+}
+
+.titulo2 {
+	margin-top: 10px;
+	margin-left: 95px;
+}
+
+.documento {
+	margin-left: 100px;
+}
+
+strong{
+	color: orange;
+}
+
+.p2 {
+	margin-left: 0px;
+}
